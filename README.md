@@ -1,2 +1,2 @@
 # spring-hibernate-customer-tracker
-tracking customer maven project1
+tracking customer maven project
